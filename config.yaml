@@ -1,0 +1,4 @@
+steady:
+  type: Maven
+  path: mvn_app
+  backend: http://localhost:8033/backend/
