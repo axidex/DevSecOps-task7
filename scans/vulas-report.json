@@ -1,0 +1,27 @@
+{
+	"vulasReport": {
+		"generatedAt": "26.09.2023 08:50 +0300",
+		"generatedFor": {
+			"space": "$space.getSpaceToken()",
+			"groupId": "training.taylor.time-tracker",
+			"artifactId": "time-tracker-web",
+			"version": "0.6.0-SNAPSHOT"
+		},
+		"isAggregated": false,
+	
+		"aggregatedModules": [],
+	
+		"configuration": [
+			{ "name": "exceptionThreshold",
+			  "value": "dependsOn" },
+			{ "name": "exemptScopes",
+			  "value": "TEST, PROVIDED" },
+			{ "name": "exemptBugs",
+			  "value": "" }
+		],
+	
+		"vulnerabilities": [
+		
+		]
+	}
+}
