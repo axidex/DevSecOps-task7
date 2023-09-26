@@ -32,6 +32,7 @@ def gradle_send(backend: str, path: str):
         "-p", "gradle_app",
         "-Pgroup=group",
         "-Pversion=1.2.3",
+        "-Pvulas.report.reportDir=./scans",
         backendServer
     ]
 

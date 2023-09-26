@@ -1,3 +1,7 @@
 
 .DS_Store
 testing.ipynb
+scans
+scans/
+gradle_app/
+mvn_app/
